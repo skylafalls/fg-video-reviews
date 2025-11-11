@@ -92,4 +92,14 @@ Also, Mastered One shouldn't be tilting and turning that much, too excessive for
 another nitpick.
 
 #### SUMMARY:
-- Overall, [tbd]
+Video: https://www.youtube.com/watch?v=XmnMZQvEZpg
+Rating: **Feature**
+Numerical Rating / 10: 7.23/10
+Reasoning:
+- This incoporates some unique parts and ideas (especially with layers) and has a
+  semi-well-rounded A.E. version above the average.
+- The number entry symbol designs are also decent and unique.
+- There are definitely flaws that can be fixed, such as reducing excessive effects
+  and some minor tweaks to timings and enntries.
+- Overall, I rate this **featured**.
+
