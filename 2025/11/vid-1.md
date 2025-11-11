@@ -5,7 +5,7 @@
 - URL: https://www.youtube.com/watch?v=XmnMZQvEZpg
 - Reviewed-By: Stella (@stellacherries), Axiom (@apprehenssive), Sky (@skylalights)
 
-## Reviewss:
+## Reviews:
 ### Sky's Review:
 Starting off with the intro, there is an excessive glow effect that is applied to
 the entirety of the video which I personally find too much, especially since it is
