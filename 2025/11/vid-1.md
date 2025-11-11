@@ -80,4 +80,16 @@ A.E. version, it sort of goes all over the place and you can't really understand
 The audio sort of then starts hollowing out and sounds very windy. Again, while the video
 goes all over the place, sort of giving me a JoshuaDR.0809-style A.E. vibe.
 
-nvm i'm not finishing the rest of the review
+Okay, a few minutes later, it turns into a more static-y and VHS-y sort of video, not sure how
+else I would describe the video effects being applies. Minutes later again, the familar
+blue explosion and glowing effects takes over, signifying the end of the video is coming soon.
+It's a normal way to demonstrate the finals using filmora effects.
+
+Numbers after "Capacity Limit of Capacity Limit" could've been more original instead of
+repeating the phrasing again and again. Also, "The Capacity Ending Limit" section has a blurry-
+looking text style which, isn't my cup of tea but again, just a nitpick.
+Also, Mastered One shouldn't be tilting and turning that much, too excessive for me. Yeah,
+another nitpick.
+
+#### SUMMARY:
+- Overall, [tbd]
