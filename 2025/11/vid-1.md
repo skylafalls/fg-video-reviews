@@ -93,8 +93,11 @@ another nitpick.
 
 #### SUMMARY:
 Video: https://www.youtube.com/watch?v=XmnMZQvEZpg
+
 Rating: **Feature**
+
 Numerical Rating / 10: 7.23/10
+
 Reasoning:
 - This incoporates some unique parts and ideas (especially with layers) and has a
   semi-well-rounded A.E. version above the average.
