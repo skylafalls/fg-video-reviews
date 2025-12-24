@@ -33,7 +33,7 @@ but not disappointed regardless.
 One thing I have a slight problem with is that I don't see the Joshua ball actually jumping up and down.
 It's just the A.E. version, although considering the power, I can understand.
 
-Also, why is "Jump" and "Heat" captialized? Some of the captializations are weird, but not enough to actually affect its rating.
+Also, why is "Jump" and "Heat" capitalized? Some of the captializations are weird, but not enough to actually affect its rating.
 
 Oooh, now level 5 is where the layers show up, which I personally don't think fits in a video where you jump up and down so quickly you obliterate the entire A_0 (those who know). But that's my opinions. The layers are still pretty good regardless.
 

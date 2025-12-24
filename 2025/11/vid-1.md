@@ -50,7 +50,7 @@ I've seen with most layers and also gives a nice fractral pattern.
 I don't know how to describe this, but the speeding up and zooming up near the end of
 the layer set is also a nice touch that builds up feeling for the next layer set.
 
-Superlayers are slow, not begrudgingly so but more like a nitpick. I would've prefered
+Superlayers are slow, not begrudgingly so but more like a nitpick. I would've preferred
 faster layers but the current speed is still okay. Also, at some parts of the layer set,
 it gets quite difficult to actually see the layer patterns until it starts brightening.
 
@@ -73,7 +73,7 @@ of the existing ones instead of lazily looping the video.
 A few moments of casual speed ups before we get to a new number ("Capacity Limit of Capacity Limit")
 and the audio and video getting much more chaotic. [This segment](https://youtu.be/XmnMZQvEZpg?t=1443)
 that was made by Polstok honestly reminds me a lot of what I would do for A.E. versions,
-especially of his use of the classic filmora effects I recongize. I like the familar feeling.
+especially of his use of the classic filmora effects I recognize. I like the familiar feeling.
 
 Then it sort of turns, well I don't really know how to describe it. Like a very chaotic
 A.E. version, it sort of goes all over the place and you can't really understand the pattern.
@@ -81,7 +81,7 @@ The audio sort of then starts hollowing out and sounds very windy. Again, while 
 goes all over the place, sort of giving me a JoshuaDR.0809-style A.E. vibe.
 
 Okay, a few minutes later, it turns into a more static-y and VHS-y sort of video, not sure how
-else I would describe the video effects being applies. Minutes later again, the familar
+else I would describe the video effects being applies. Minutes later again, the familiar
 blue explosion and glowing effects takes over, signifying the end of the video is coming soon.
 It's a normal way to demonstrate the finals using filmora effects.
 
@@ -99,10 +99,10 @@ Rating: **Feature**
 Numerical Rating / 10: 7.23/10
 
 Reasoning:
-- This incoporates some unique parts and ideas (especially with layers) and has a
+- This incorporates some unique parts and ideas (especially with layers) and has a
   semi-well-rounded A.E. version above the average.
 - The number entry symbol designs are also decent and unique.
 - There are definitely flaws that can be fixed, such as reducing excessive effects
-  and some minor tweaks to timings and enntries.
+  and some minor tweaks to timings and entries.
 - Overall, I rate this **featured**.
 
