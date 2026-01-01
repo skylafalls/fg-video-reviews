@@ -2,7 +2,7 @@
 
 **Video Information:**
 - Title: Numbers 0 to B̶̤̯̀E̶̪̊̆ͅY̷̜̭͘O̸̯̟̽N̴̬̿̚Ď̵̰̅ ̸̹́̿T̸͋͜͝Ǝ̴̳̈O̸̦̔͊Ͷ̵̸̠͙̝̎͝ [Part XV] [RTX ON]
-- URL: https://www.youtube.com/watch?v=DhNoMtTra-I
+- URL: <https://www.youtube.com/watch?v=DhNoMtTra-I>
 - Reviewed-By: Sky (@skylalights), W. Powell (@wmpowell8), Zerena (@zerenafan)
 
 ## Reviews:
@@ -79,7 +79,7 @@ And DAMN, those layers are quite impressive. I love some of the patterns, like t
 One last thing, was the black hole segment copied from Mathis's part 14? And the shattering to review the final number seems copied from BEYOND ??? S2E3 also. Strange.
 
 ## SUMMARY:
-- Video: https://www.youtube.com/watch?v=P76u-QFdhLg
+- Video: <https://www.youtube.com/watch?v=P76u-QFdhLg>
 - Rating: **TBD**
 
 Numerical Rating / 10: **TBD**

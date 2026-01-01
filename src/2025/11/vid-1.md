@@ -2,7 +2,7 @@
 
 **Video Information:**
 - Title: 𝐹𝐺 𝑁𝑢𝑚𝑏𝑒𝑟 𝐶𝑜𝑚𝑝𝑎𝑟𝑖𝑠𝑜𝑛 𝑃𝐴𝑅𝑇 315: 𝐷𝑒𝑐𝑖𝑚𝑎𝑡𝑖𝑛𝑔 𝑡ℎ𝑒 𝐸𝑛𝑑𝑠
-- URL: https://www.youtube.com/watch?v=XmnMZQvEZpg
+- URL: <https://www.youtube.com/watch?v=XmnMZQvEZpg>
 - Reviewed-By: Stella (@stellacherries), Axiom (@apprehenssive), Sky (@skylalights)
 
 ## Reviews:
@@ -92,7 +92,7 @@ Also, Mastered One shouldn't be tilting and turning that much, too excessive for
 another nitpick.
 
 #### SUMMARY:
-Video: https://www.youtube.com/watch?v=XmnMZQvEZpg
+Video: <https://www.youtube.com/watch?v=XmnMZQvEZpg>
 
 Rating: **Feature**
 
