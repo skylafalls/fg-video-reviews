@@ -2,7 +2,7 @@
 
 **Video Information:**
 - Title: Jumping From 0 to Absolute Infinity Jumps Per Second!!!
-- URL: https://www.youtube.com/watch?v=P76u-QFdhLg
+- URL: <https://www.youtube.com/watch?v=P76u-QFdhLg>
 - Reviewed-By: Sky (@skylalights)
 
 ## Reviews:
@@ -54,7 +54,7 @@ Ah, and the jumping ball is back, glowing brighter then ever before, representin
 And the finals? About what I expected. On par with other stuff I have seen from Joshua. That was quite a morbid ending however.
 
 ## SUMMARY:
-- Video: https://www.youtube.com/watch?v=P76u-QFdhLg
+- Video: <https://www.youtube.com/watch?v=P76u-QFdhLg>
 - Rating: **Feature**
 
 Numerical Rating / 10: 7.47/10
